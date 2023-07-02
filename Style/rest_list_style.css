@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .image-container {
+    margin: 1.5em auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+
+  .image-container img {
+    border-radius: 20px;
+    width: 550px;
+    height: 366px;
+    opacity: 1;
+    transition: opacity 0.5s, transform 0.2s;
+  }
+
+  .image-container:hover img {
+    border-radius: 10px;
+    opacity: 0.2;
+    transform: scale(1.25);
+  }
+
+  .text{
+    display: flex;
+    position: absolute;
+    font-size: 40px;
+    text-align: center;
+    visibility: hidden;
+  }
+
+  .image-container:hover div {
+    visibility: visible;
+  }
+
+@media screen and (max-width: 1024px) {
+  body{
+    padding-top: 30%;
+    padding-bottom: 30%;
+  }
+}
