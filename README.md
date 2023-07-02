@@ -1,15 +1,15 @@
 # AR Restaurant Web App
-
-![ar](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/1d2574aa-c32b-4e9c-8a8f-89535e868aa7)
+![wrap](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/f8486d2f-9d88-4892-a3a3-b45a23aa9d4f)
 <br/><br/><br/><br/>
-![ar-2](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/5741493f-805e-4f41-bdb3-a7bebb8823c8)
+![capuccino](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/854aedbd-d6de-465b-8828-79d947d1ddcf)
 <br/><br/><br/><br/>
-![ar_page](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/9d0cb24f-f80e-46f7-bb69-3e70cf0a6bf2)
+![8](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/e2b7ec27-d241-4e12-be67-cc16a27a4995)
 <br/><br/><br/><br/>
-![admin_page](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/5e439271-d0f8-421f-bd17-8b72a5ebe964)
+![admin_page](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/ebaf8056-9e37-4b8d-8378-08a2a9572157)
 <br/><br/><br/><br/>
-![Screenshot_2023-05-22-12-48-28-89_680d03679600f7af0b4c700c6b270fe7](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/47e3bdf4-0dac-4f67-a39c-c25816bb3382)
+![ar_page](https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/b00b6ee7-7131-4703-ab1a-aff28d8b03ad)
+<br/><br/><br/><br/>
+<img src="https://github.com/SamarthHChinivar/AR-Restaurant-Web-App/assets/104615876/81490ba0-f58f-4ae5-9784-7e729eb53c81" height="900px">
 <br/><br/>
-
 Want full project files ?
 Contact through this <a href='https://samarth-portfolio-website.000webhostapp.com/#contact' target='_blank'>Website</a>
